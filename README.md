@@ -11,13 +11,6 @@ Getting Started
 
 Download this repository by going up to the green "Code" button at the top right and clicking "Download ZIP".
 
-Alternatively, you can also clone the repo directly using the following commands.
-
-# Replace "your_folderpath_here" with the actual folder where you want the project to go.
-cd /your_folderpath_here
-git clone git@github.com:ericodle/Open-Danio.git
-
-    For this example, the working directory is the repository root directory.
 
 ## 2D_trajectory.py
 
